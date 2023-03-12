@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwan-albahrani&label=Profile%20views&color=0e75b6&style=flat" alt="radwan-albahrani" /> </p>
 
-- 🔭 I’m currently working on [Tampal](https://github.com/Radwan-Albahrani/Tampal)
+- 🔭 I’m currently working on **The Shooters**
 
-- 🌱 I’m currently learning **Springboot Authentication using Kerbros Server**
+- 🌱 I’m currently learning **Android Development && Firebase backend in JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Radwan-Albahrani](https://github.com/Radwan-Albahrani)
 
