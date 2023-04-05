@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development && Firebase backend in JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Radwan-Albahrani](https://github.com/Radwan-Albahrani)
+- 👨‍💻 All of my projects are available at [https://github.com/Radwan-Albahrani?tab=repositories](https://github.com/Radwan-Albahrani?tab=repositories)
 
 - 📫 How to reach me **radwan.albahrani@gmail.com**
 
