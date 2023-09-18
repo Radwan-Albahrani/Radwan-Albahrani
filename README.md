@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwan-albahrani&label=Profile%20views&color=0e75b6&style=flat" alt="radwan-albahrani" /> </p>
 
-- 🔭 I’m currently working on **The Shooters**
+- 🔭 I’m currently working on **Flutter Roadmap**
 
-- 🌱 I’m currently learning **Android Development && Firebase backend in JavaScript**
+- 🌱 I’m currently learning **Mobile Development with Flutter, Firebase, Riverpod, GoRouter, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Radwan-Albahrani?tab=repositories](https://github.com/Radwan-Albahrani?tab=repositories)
 
